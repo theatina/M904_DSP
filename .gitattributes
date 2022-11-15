@@ -1,1 +1,3 @@
 *.ipynb linguist-language=Python
+Final/**.ipynb linguist-language=Python
+Project_1/**.ipynb linguist-language=Python
